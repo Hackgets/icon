@@ -1,7 +1,8 @@
 # Icons I made
 ## Hackgets Geneicon
-This is a generic SVG icon set.
-![Thumbnail](geneicon_thumb.png)
+[Hackgets Geneicon](geneicon.tar.gz) is a generic SVG icon set.
+![Thumbnail](geniindx.png)
 
 ## Specific icons
-Icons in [/specific](https://github.com/Hackgets/icon/tree/main/specific) are specific product icons.
+Icons in [/specific](/specific) are specific product icons.
+![Thumbnail](spicindx.png)
